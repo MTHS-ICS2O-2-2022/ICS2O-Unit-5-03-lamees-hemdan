@@ -17,7 +17,7 @@ func main() {
 	fmt.Println("Enter your age: ")
 	fmt.Scanln(&age)
 
-	if age >= "17" {
+	if-else age >= "17" {
 		fmt.Println("You can watch R rated movies!")
 	} else if age >= "13" {
 		fmt.Println("You can watch PG-13 movies!")
